@@ -149,6 +149,15 @@
       ]
     },
     {
+      "downloadURL": "mcr.microsoft.com/containernetworking/cilium/cilium:*",
+      "amd64OnlyVersions": [],
+      "multiArchVersions": [
+        "v1.13.TODO-TODO",
+        "v1.14.12-240716",
+        "v1.16.TODO-TODO"
+      ]
+    },
+    {
       "downloadURL": "mcr.microsoft.com/oss/kubernetes/apiserver-network-proxy/agent:*",
       "amd64OnlyVersions": [],
       "multiArchVersions": [
